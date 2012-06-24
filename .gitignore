@@ -13,3 +13,11 @@ META.yml
 MYMETA.yml
 nytprof.out
 pm_to_blib
+
+.DS_Store
+
+output_clientX.csv
+
+loc_input_clientX.csv
+
+input_clientX.csv
